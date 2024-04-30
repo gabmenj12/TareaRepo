@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #e63103;
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.geofisica{
+    background-color: #17c44b;
+    margin-top: 40px;
+    margin: 70px;
+}
+.geofisica h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #293f0d;
+    text-align: center;
+}
+.geoquimica{
+    background-color: #31b0c7;
+    margin-top: 40px;
+    margin: 70px;
+}
+.geoquimica h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #1405e7;
+    text-align: center;
+}
+.paleontologia{
+    background-color: #e77cd0;
+    margin-top: 40px;
+    margin: 70px;
+}
+.paleontologia h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #8a088f;
+    text-align: center;
+}
+iframe{
+    height: 450px;
+    width: 450px;
+}
+img{
+    height: 450px;
+    width: 450px;
+    margin-left: 50px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
